@@ -1,0 +1,19 @@
+{
+    "club_name": "Team Go",
+    "icon": "/images/menu_1.png",
+    "id": "1",
+    "score": [
+        {
+            "score": "12,897",
+            "image": "/images/Gold_coin.png"
+        },
+        {
+            "score": "322",
+            "image": "/images/emojione_gem-stone.png"
+        },
+        {
+            "score": "2/5",
+            "image": "/images/Group.png"
+        }
+    ]
+}

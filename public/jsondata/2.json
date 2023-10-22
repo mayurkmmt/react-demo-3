@@ -1,0 +1,19 @@
+{
+    "club_name": "Team Rocky",
+    "icon": "/images/menu_2.png",
+    "id": "2",
+    "score": [
+        {
+            "score": "10,000",
+            "image": "/images/Gold_coin.png"
+        },
+        {
+            "score": "100",
+            "image": "/images/emojione_gem-stone.png"
+        },
+        {
+            "score": "5/5",
+            "image": "/images/Group.png"
+        }
+    ]
+}

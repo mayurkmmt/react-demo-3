@@ -1,0 +1,19 @@
+{
+    "club_name": "Team Cena",
+    "icon": "/images/menu_3.png",
+    "id": "3",
+    "score": [
+        {
+            "score": "20,000",
+            "image": "/images/Gold_coin.png"
+        },
+        {
+            "score": "522",
+            "image": "/images/emojione_gem-stone.png"
+        },
+        {
+            "score": "5/5",
+            "image": "/images/Group.png"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "club_name": "Team The Rock",
+    "icon": "/images/menu_4.png",
+    "id": "4",
+    "score": [
+        {
+            "score": "50,000",
+            "image": "/images/Gold_coin.png"
+        },
+        {
+            "score": "100",
+            "image": "/images/emojione_gem-stone.png"
+        },
+        {
+            "score": "1/5",
+            "image": "/images/Group.png"
+        }
+    ]
+}
